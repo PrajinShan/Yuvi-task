@@ -18,3 +18,7 @@ Thumbs.db
 
 # Working notes kept on disk but outside the required repo layout
 day0/screenshots/
+
+# Analysis workspace (mockup + OCR tooling) — not part of the assignment tree
+/scratch/
+/mockup.png
