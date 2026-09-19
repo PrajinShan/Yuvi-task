@@ -15,3 +15,6 @@ build/
 # OS noise
 .DS_Store
 Thumbs.db
+
+# Working notes kept on disk but outside the required repo layout
+day0/screenshots/
